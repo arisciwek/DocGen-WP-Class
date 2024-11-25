@@ -1,1 +1,1 @@
-# DocGen-WP-Class
+# DocGen Implementation WP Class

@@ -131,7 +131,7 @@ Kontribusi sangat diterima! Silakan kirim Pull Request. Untuk perubahan besar, h
 ## 👥 Tim & Kredit
 
 ### Author & Maintainer
-- Ari Sciwek ([@arisciwek](https://github.com/arisciwek))
+- Arisciwek ([@arisciwek](https://github.com/arisciwek))
 
 ### Base Project
 - DocGen Implementation Plugin oleh Ari Sciwek

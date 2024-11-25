@@ -1,5 +1,4 @@
 # DocGen Implementation WP Class
-# DocGen WPClass
 
 Library WordPress untuk menyediakan fungsionalitas pembuatan dokumen yang dapat digunakan kembali untuk plugin WordPress. Library ini berbasis pada DocGen Implementation Plugin, dibuat sebagai class yang dapat dengan mudah diintegrasikan ke plugin WordPress manapun.
 
